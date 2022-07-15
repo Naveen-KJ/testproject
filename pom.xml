@@ -24,7 +24,7 @@
 		<poi-ooxml-version>4.0.0</poi-ooxml-version>
 		<poi-scratchpad-version>4.0.0</poi-scratchpad-version>
 		<poi-ooxml-schemas-version>4.0.0</poi-ooxml-schemas-version>
-		<jackson-databind-version>2.9.7</jackson-databind-version>
+		<jackson-databind-version>2.12.6.1</jackson-databind-version>
 		<c3p0-version>0.9.5.2</c3p0-version>
 		<org.json.version>20090211</org.json.version>
 		<spring-security-crypto-version>4.2.4.RELEASE</spring-security-crypto-version>
